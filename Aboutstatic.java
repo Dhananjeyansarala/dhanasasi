@@ -6,7 +6,7 @@ public class  Aboutstatic {
 	int age;
 	int noOfStudents;
 	static {
-		collageName="Aaadhiparasakthi";
+		collageName="Aaadhiparasakthi collage of Engineering";
 		
 	}
 	Aboutstatic(String name,int age,int noOfStudents) {
